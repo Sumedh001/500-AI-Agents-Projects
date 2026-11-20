@@ -1,4 +1,4 @@
-# Agents — Working Implementations
+# Agents — Working Implementation
 
 Each folder is a self-contained, runnable AI agent. No monorepo setup needed.
 
